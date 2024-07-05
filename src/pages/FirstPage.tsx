@@ -1,4 +1,3 @@
-import React from 'react';
 import UseForm from '../components/UseForm';
 
 const FirstPage = () => {
